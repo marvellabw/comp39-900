@@ -8,3 +8,5 @@ Disclaimer: This is unofficial course content. In case of any discrepancies, ple
 [Week 2](https://docs.google.com/document/d/1LoCj3FF-QmJpm6oxZhI0Yn7BJfqoNMVNqpP09WCR80w/edit?usp=sharing)
 
 [Week 3](https://docs.google.com/document/d/15qfjlikNzmVtIrXsQzF_FA9u6wGxy5DiRy-BryzlXks/edit?usp=sharing)
+
+[Week 4](https://docs.google.com/document/d/1kVZu_Spizoc-Z5fseZWDYyJ2Ga3RtDKjIjBjRFhIHKw/edit?usp=sharing)
